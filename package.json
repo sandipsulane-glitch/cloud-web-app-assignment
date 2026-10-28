@@ -1,0 +1,12 @@
+{
+  "name": "cloud-web-app-assignment",
+  "version": "1.0.0",
+  "description": "Cloud assignment web app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
